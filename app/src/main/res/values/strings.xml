@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">MyProject</string>
+    <string name="to">To</string>
+    <string name="reminder">Reminder</string>
+    <string name="done">Done</string>
+    <string name="Subject">Subject</string>
+    <string name="dates">Dates</string>
+    <string name="times">Times</string>
+    <string name="button">Button</string>
+
 </resources>
